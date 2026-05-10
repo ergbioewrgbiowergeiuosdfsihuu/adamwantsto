@@ -1,0 +1,10 @@
+{
+  "name": "Nexus Social",
+  "description": "A full-featured social app prototype with Voice Calls, FaceTime, Screen Share, Chat, and Voice filtering capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
